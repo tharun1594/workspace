@@ -6,6 +6,9 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./index.css" />
+    <script src="https://unpkg.com/react@17.0.0/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17.0.0/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone@7.12.4/babel.js"></script>
   </head>
   <body>
     <div id="root"></div>
@@ -15,6 +18,23 @@
       element.textContent = "Hello World!";
       element.classList.add("greeting");
       rootElement.appendChild(element);
+    </script>
+    <script type="module">
+      const elemntType = "h1";
+      const name = "Tharun";
+      const elementClassName = "greeting";
+      const children = `Hello ${name}!`;
+      const element = React.createElement(elemntType, {
+        elementClassName,
+        children,
+      });
+      ReactDOM.render(element, document.getElementById("root"));
+    </script>
+    <script type="text/babel">
+      const elementProps = { className: "greeting", children: "Hello World!" };
+      const element = React.createElement("h1", elementProps);
+      const element = <h1 className="greeting">Hello Vange !!</h1>;
+      ReactDOM.render(element, document.getElementById("root"));
     </script>
   </body>
 </html>
