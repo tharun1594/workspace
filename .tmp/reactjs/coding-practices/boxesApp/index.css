@@ -1,0 +1,41 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media all and (min-width: 768px) {
+  .bg {
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+  }
+}
+.heading {
+  font-size: 35px;
+  font-weight: 600;
+  color: #0f172a;
+}
+.small {
+  text-align: center;
+  background-color: #fbbf24;
+  height: 100px;
+  width: 100px;
+  color: #ffffff;
+}
+
+.medium {
+  text-align: center;
+  background-color: #38bdf8;
+  height: 200px;
+  width: 200px;
+  color: #ffffff;
+}
+.large {
+  text-align: center;
+  background-color: #ec4899;
+  height: 300px;
+  width: 300px;
+  color: #ffffff;
+}
