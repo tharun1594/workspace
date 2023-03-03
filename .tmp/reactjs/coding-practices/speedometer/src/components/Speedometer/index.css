@@ -1,0 +1,40 @@
+.container {
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 20px;
+}
+.heading {
+  font-size: 34px;
+  color: #ffffff;
+  font-style: italic;
+}
+.image {
+  width: 70%;
+}
+.para {
+  color: #cbd5e1;
+}
+.speed {
+  color: #ffffff;
+  font-size: 25px;
+}
+
+.button {
+  border-radius: 10px;
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 5px;
+  margin: 10px;
+}
+.brake {
+  border: 2px solid #cbd5e1;
+  color: #cbd5e1;
+  padding: 5px;
+  margin: 10;
+  background-color: transparent;
+  border-radius: 10px;
+}
