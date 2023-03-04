@@ -1,0 +1,30 @@
+.bg {
+  background-color: #1e293b;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  font-family: 'Roboto';
+  background-size: cover;
+  height: 100vh;
+}
+.heading {
+  font-size: 35px;
+  color: #f0bb03;
+  font-weight: 600;
+}
+
+p {
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 400;
+}
+
+.button {
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #1e293b;
+  padding: 5px;
+}
