@@ -1,45 +1,29 @@
+import {Component} from 'react'
 import './index.css'
-import {Components} from 'react'
 
-class LightDarkMode extends Components {
-  state = {isLightOn: false}
+class LightDarkMode extends Component {
+  state = {isLightOn: true}
 
   lightOn = () => {
-    this.setState({isLightOn: true})
-  }
-
-  lightOff = () => {
-    this.setState({isLightOn: false})
+    this.setState(prevState => ({isLightOn: !prevState.isLightOn}))
   }
 
   render() {
     const {isLightOn} = this.state
+    const modeClassName = isLightOn ? 'card-light' : 'card-dark'
+    const buttonText = isLightOn ? 'Light Mode' : 'Dark Mode'
 
-    let authButton
-
-    if (isLightOn) {
-        authButton = (
-            <div className="card-light">
+    return (
+      <div className="bg">
+        <div className={modeClassName}>
           <h1 className="heading">Click To Change Mode</h1>
-          <button type="button" className="button" onClick={this.lightOff}>
-            Dark Mode
+          <button className="button" onClick={this.lightOn} type="button">
+            {buttonText}
           </button>
         </div>
-        )
-    } else {
-        authButton = (
-            <div className="card-dark">
-        <h1 className="heading">Click To Change Mode</h1>
-        <button type="button" className="button" onClick={this.lightOn}>
-          Light Mode
-        </button>
       </div>
-        )
-    }
-
-    return (<div className="bg">
-    {this.authButton}
-    </div>)
+    )
+  }
 }
 
 export default LightDarkMode
