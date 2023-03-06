@@ -1,0 +1,37 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  padding: 20px;
+}
+.card {
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  font-family: 'Roboto';
+  text-align: center;
+}
+.heading {
+  font-size: 35px;
+  color: #0f172a;
+  font-weight: 600;
+}
+.text {
+  font-size: 24px;
+  color: #334155;
+}
+.note {
+  font-size: 13px;
+  color: #334155;
+}
+.button {
+  border-radius: 5px;
+  color: #334155;
+  background-color: #ffffff;
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+}
