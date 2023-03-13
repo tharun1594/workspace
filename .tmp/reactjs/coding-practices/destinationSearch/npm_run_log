@@ -1,0 +1,57 @@
+Cleared /tmp/jest_0
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+    e
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+  console.log
+    es
+
+      at DestinationSearch.render (src/components/DestinationSearch/index.js:17:13)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

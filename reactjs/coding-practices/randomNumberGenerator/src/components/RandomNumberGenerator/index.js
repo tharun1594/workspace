@@ -17,11 +17,13 @@ class RandomNumberGenerator extends Component {
       <div className="bg">
         <div className="card-bg">
           <h1 className="heading">Random Number</h1>
-          <p>Generate a random number in the range of 0 to 100</p>
+          <p className="description">
+            Generate a random number in the range of 0 to 100
+          </p>
           <button className="button" type="button" onClick={this.onGenerate}>
             Generate
           </button>
-          <p className="number">{number}</p>
+          <p className="random-number">{number}</p>
         </div>
       </div>
     )
