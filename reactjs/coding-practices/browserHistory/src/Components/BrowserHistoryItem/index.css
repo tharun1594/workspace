@@ -1,0 +1,53 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+.time {
+  font-size: 20px;
+  margin: 10px;
+  margin-right: 20px;
+  width: 10%;
+}
+.image-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px;
+  margin-left: 20px;
+}
+
+.title {
+  font-size: 20px;
+  color: #475569;
+  font-weight: 500;
+  margin: 10px;
+  margin-left: 20px;
+}
+
+.domain {
+  font-size: 20px;
+  color: #64748b;
+}
+
+.button {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+.delete-container {
+  display: flex;
+  flex-direction: row;
+  width: 10%;
+  align-items: center;
+  align-self: center;
+}
