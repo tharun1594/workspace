@@ -1,14 +1,23 @@
 .list-container {
   display: flex;
-  flex-direction: row;
-  align-items: center;
+  flex-direction: column;
   width: 100%;
+}
+@media all and (min-width: 576px) {
+  .list-container {
+    flex-direction: row;
+  }
 }
 .time {
   font-size: 20px;
   margin: 10px;
   margin-right: 20px;
   width: 10%;
+}
+@media all and (max-width: 576px) {
+  .time {
+    width: 20%;
+  }
 }
 .image-container {
   display: flex;
