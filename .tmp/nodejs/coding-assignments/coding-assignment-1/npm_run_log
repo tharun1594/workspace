@@ -1,0 +1,126 @@
+  console.log
+    Server is running at http:/localhost:3000/
+
+      at Server.<anonymous> (../app.js:23:15)
+
+  console.log
+    TO DO
+
+      at ../app.js:181:11
+
+  console.log
+      HIGH
+
+      at ../app.js:181:11
+
+  console.log
+    IN PROGRESS  HIGH
+
+      at ../app.js:181:11
+
+  console.log
+    DONE   WORK
+
+      at ../app.js:181:11
+
+  console.log
+      HIGH LEARNING
+
+      at ../app.js:181:11
+
+  console.log
+       HOME
+
+      at ../app.js:181:11
+
+  console.log
+     Buy
+
+      at ../app.js:181:11
+
+  console.log
+    2021-04-02 f
+
+      at checkRequestsQueries (../app.js:76:15)
+
+  console.log
+    2021-04-02T00:00:00.000Z r
+
+      at checkRequestsQueries (../app.js:82:15)
+
+  console.log
+    2023-03-18T14:20:59.962Z new
+
+      at checkRequestsQueries (../app.js:83:15)
+
+  console.log
+    true V
+
+      at checkRequestsQueries (../app.js:86:15)
+
+  console.log
+    2021-04-02 a
+
+      at ../app.js:224:11
+
+  console.log
+    2021-09-22
+
+      at checkRequestsBody (../app.js:152:15)
+
+  console.log
+    true
+
+      at checkRequestsBody (../app.js:155:15)
+
+  console.log
+    true
+
+      at checkRequestsBody (../app.js:156:15)
+
+  console.log
+    { stmt: Statement { stmt: undefined }, lastID: 6, changes: 1 }
+
+      at ../app.js:269:11
+
+  console.log
+    undefined undefined IN PROGRESS undefined undefined
+
+      at ../app.js:281:11
+
+  console.log
+    HIGH undefined undefined undefined undefined
+
+      at ../app.js:281:11
+
+  console.log
+    undefined Priority task undefined undefined undefined
+
+      at ../app.js:281:11
+
+  console.log
+    undefined undefined undefined undefined WORK
+
+      at ../app.js:281:11
+
+  console.log
+    2021-10-18
+
+      at checkRequestsBody (../app.js:152:15)
+
+  console.log
+    true
+
+      at checkRequestsBody (../app.js:155:15)
+
+  console.log
+    true
+
+      at checkRequestsBody (../app.js:156:15)
+
+  console.log
+    undefined undefined undefined 2021-10-18 undefined
+
+      at ../app.js:281:11
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

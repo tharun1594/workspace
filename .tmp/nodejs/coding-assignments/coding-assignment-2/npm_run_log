@@ -1,0 +1,275 @@
+  console.log
+    Server is Running at http://localhost:3000
+
+      at Server.<anonymous> (../app.js:23:15)
+
+  console.log
+    JimCameron james@456
+
+      at ../app.js:96:11
+
+  console.log
+    {
+      user_id: 4,
+      name: 'James Cameron',
+      username: 'JimCameron',
+      password: '$2b$10$QmutsDpGkFNxaOTHAGij1./0C1rWj/xQVtlqOAhN4gL6UZ0YNxtyC',
+      gender: 'male'
+    }
+
+      at ../app.js:98:11
+
+  console.log
+    serenawilliams serana@123 Serena Williams female
+
+      at ../app.js:63:11
+
+  console.log
+    serenathomas seran Serena Thomas female
+
+      at ../app.js:63:11
+
+  console.log
+    serenathomas serana@123 Serena Thomas female
+
+      at ../app.js:63:11
+
+  console.log
+    wilda anderson2000
+
+      at ../app.js:96:11
+
+  console.log
+    undefined
+
+      at ../app.js:98:11
+
+  console.log
+    JimCameron sdgrgsdkj
+
+      at ../app.js:96:11
+
+  console.log
+    {
+      user_id: 4,
+      name: 'James Cameron',
+      username: 'JimCameron',
+      password: '$2b$10$QmutsDpGkFNxaOTHAGij1./0C1rWj/xQVtlqOAhN4gL6UZ0YNxtyC',
+      gender: 'male'
+    }
+
+      at ../app.js:98:11
+
+  console.log
+    JimCameron james@456
+
+      at ../app.js:96:11
+
+  console.log
+    {
+      user_id: 4,
+      name: 'James Cameron',
+      username: 'JimCameron',
+      password: '$2b$10$QmutsDpGkFNxaOTHAGij1./0C1rWj/xQVtlqOAhN4gL6UZ0YNxtyC',
+      gender: 'male'
+    }
+
+      at ../app.js:98:11
+
+  console.log
+    James Cameron
+
+      at ../app.js:117:11
+
+  console.log
+    James Cameron
+
+      at ../app.js:140:11
+
+  console.log
+    James Cameron
+
+      at ../app.js:158:11
+
+  console.log
+    James Cameron 4
+
+      at ../app.js:304:11
+
+  console.log
+    James Cameron 11
+
+      at ../app.js:176:11
+
+  console.log
+    James Cameron 1
+
+      at ../app.js:176:11
+
+  console.log
+    {
+      tweet_id: 1,
+      tweet: 'Looking forward to a unique interaction with youngsters, their parents and teachers.',
+      user_id: 1,
+      date_time: '2021-04-07 14:50:15'
+    }
+
+      at ../app.js:199:13
+
+  console.log
+    -----------
+
+      at ../app.js:200:13
+
+  console.log
+    [
+      {
+        follower_id: 7,
+        follower_user_id: 4,
+        following_user_id: 1,
+        user_id: 1,
+        name: 'Narendra Modi',
+        username: 'narendramodi',
+        password: '$2b$10$F/fLVmOjBnj0cj1y0tCS3uTJS6LCtLk1TaM5WqCVYC7ikMlIqY0re',
+        gender: 'male'
+      },
+      {
+        follower_id: 8,
+        follower_user_id: 4,
+        following_user_id: 2,
+        user_id: 2,
+        name: 'Joe Biden',
+        username: 'JoeBiden',
+        password: '$2b$10$2are6Ba69oi/Cai4aT/VM.t7AO7TsQx/.Ogz.7XG4qjuMil0v80aq',
+        gender: 'male'
+      },
+      {
+        follower_id: 9,
+        follower_user_id: 4,
+        following_user_id: 3,
+        user_id: 3,
+        name: 'Serena Williams',
+        username: 'serenawilliams',
+        password: '$2b$10$WeEWfd35RwSh7lXaVFlmFeOSZNdQHsByzuHKhni.nnF4vV8f4eYKe',
+        gender: 'female'
+      },
+      {
+        follower_id: 10,
+        follower_user_id: 4,
+        following_user_id: 5,
+        user_id: 5,
+        name: 'Amitabh Bachchan',
+        username: 'SrBachchan',
+        password: '$2b$10$yzngGkNmhuP34N1nnNsxve23iw7KZbOyi6nO4k41q9PIxtSihKmZq',
+        gender: 'male'
+      }
+    ]
+
+      at ../app.js:201:13
+
+  console.log
+    James Cameron 11
+
+      at ../app.js:231:13
+
+  console.log
+    []
+
+      at ../app.js:242:13
+
+  console.log
+    James Cameron 3
+
+      at ../app.js:231:13
+
+  console.log
+    [
+      {
+        follower_id: 8,
+        follower_user_id: 4,
+        following_user_id: 2,
+        tweet_id: 3,
+        tweet: 'My Administration is working to get America vaccinated as quickly as possible. Tune in as I provide an update on our progress and the timeline moving forward.',
+        user_id: 1,
+        date_time: '2021-04-07 14:50:15',
+        like_id: 7,
+        name: 'Narendra Modi',
+        username: 'narendramodi',
+        password: '$2b$10$F/fLVmOjBnj0cj1y0tCS3uTJS6LCtLk1TaM5WqCVYC7ikMlIqY0re',
+        gender: 'male'
+      },
+      {
+        follower_id: 8,
+        follower_user_id: 4,
+        following_user_id: 2,
+        tweet_id: 3,
+        tweet: 'My Administration is working to get America vaccinated as quickly as possible. Tune in as I provide an update on our progress and the timeline moving forward.',
+        user_id: 4,
+        date_time: '2021-04-07 14:50:15',
+        like_id: 8,
+        name: 'James Cameron',
+        username: 'JimCameron',
+        password: '$2b$10$QmutsDpGkFNxaOTHAGij1./0C1rWj/xQVtlqOAhN4gL6UZ0YNxtyC',
+        gender: 'male'
+      }
+    ]
+
+      at ../app.js:242:13
+
+  console.log
+    James Cameron 11
+
+      at ../app.js:267:13
+
+  console.log
+    []
+
+      at ../app.js:278:13
+
+  console.log
+    James Cameron 2
+
+      at ../app.js:267:13
+
+  console.log
+    [
+      {
+        follower_id: 7,
+        follower_user_id: 4,
+        following_user_id: 1,
+        tweet_id: 2,
+        tweet: 'On the way to the rally in Kanyakumari, caught a glimpse of the majestic Vivekananda Rock Memorial and the grand Thiruvalluvar Statue.',
+        user_id: 1,
+        date_time: '2021-04-07 14:50:15',
+        reply_id: 4,
+        reply: 'When you see it..',
+        name: 'Narendra Modi',
+        username: 'narendramodi',
+        password: '$2b$10$F/fLVmOjBnj0cj1y0tCS3uTJS6LCtLk1TaM5WqCVYC7ikMlIqY0re',
+        gender: 'male'
+      },
+      {
+        follower_id: 7,
+        follower_user_id: 4,
+        following_user_id: 1,
+        tweet_id: 2,
+        tweet: 'On the way to the rally in Kanyakumari, caught a glimpse of the majestic Vivekananda Rock Memorial and the grand Thiruvalluvar Statue.',
+        user_id: 2,
+        date_time: '2021-04-07 14:50:15',
+        reply_id: 5,
+        reply: 'A lot of people make the mistake of just hopping around on jobs a whole lot...',
+        name: 'Joe Biden',
+        username: 'JoeBiden',
+        password: '$2b$10$2are6Ba69oi/Cai4aT/VM.t7AO7TsQx/.Ogz.7XG4qjuMil0v80aq',
+        gender: 'male'
+      }
+    ]
+
+      at ../app.js:278:13
+
+  console.log
+    James Cameron undefined
+
+      at ../app.js:329:11
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**
