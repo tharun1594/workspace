@@ -1,0 +1,6 @@
+  console.log
+    login called
+
+      at loginUser (index.test.js:9:11)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**
