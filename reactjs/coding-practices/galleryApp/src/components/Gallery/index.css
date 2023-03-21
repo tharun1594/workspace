@@ -1,0 +1,39 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  height: 100vh;
+}
+
+.gallery {
+  width: 80%;
+  border-radius: 20px;
+  height: 50%;
+}
+
+.gallery-image {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.title {
+  font-size: 34px;
+  font-weight: 600;
+  font-family: Roboto;
+  color: #1e293b;
+}
+
+.description {
+  font-size: 30px;
+  color: #64748b;
+}
+
+.thumbnail-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style-type: none;
+}

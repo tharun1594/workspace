@@ -1,0 +1,19 @@
+.tab-item {
+  margin: 10px;
+}
+.button {
+  background-color: transparent;
+  color: #7b8794;
+  border-width: 0;
+  font-size: 20px;
+}
+
+.select-style {
+  background-color: transparent;
+  color: #2563eb !important;
+  border-width: 0;
+  font-size: 20px;
+}
+.hr-line {
+  width: auto;
+}

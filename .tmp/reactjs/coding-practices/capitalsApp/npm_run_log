@@ -1,0 +1,111 @@
+Cleared /tmp/jest_0
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [ { id: 'PARIS', capitalDisplayText: 'Paris', country: 'France' } ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [
+      {
+        id: 'NEW_DELHI',
+        capitalDisplayText: 'New Delhi',
+        country: 'India'
+      }
+    ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+  console.log
+    [ { id: 'PARIS', capitalDisplayText: 'Paris', country: 'France' } ]
+
+      at Capitals.render (src/components/Capitals/index.js:60:13)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

@@ -1,0 +1,29 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+}
+
+.card {
+  padding: 20px;
+  text-align: center;
+  box-shadow: 2px;
+}
+
+.love-emoji {
+  height: 100px;
+  width: 100px;
+}
+
+.list-container {
+  display: flex;
+  justify-content: space-around;
+  background-color: #ffffff;
+  padding: 20px;
+  width: 90%;
+  border-radius: 20px;
+  padding-top: 50px;
+}
