@@ -1,8 +1,3 @@
-import './index.css'
-import {Component} from 'react'
-import AppItem from '../AppItem/index'
-import TabItem from '../TabItem/index'
-
 const tabsList = [
   {tabId: 'SOCIAL', displayText: 'Social'},
   {tabId: 'GAMES', displayText: 'Games'},
@@ -292,75 +287,4 @@ const appsList = [
   },
 ]
 
-class AppStore extends Component {
-  state = {activeTabId: tabsList[0].tabId, searchInput: ''}
-
-  clickTabItem = tabId => {
-    this.setState({activeTabId: tabId})
-  }
-
-  onChangeSearchInput = event => {
-    this.setState({searchInput: event.target.value})
-  }
-
-  getFilteredApps = () => {
-    const {activeTabId} = this.state
-    const filteredAppList = appsList.filter(
-      each => each.category === activeTabId,
-    )
-    return filteredAppList
-  }
-
-  render() {
-    const {activeTabId, searchInput} = this.state
-    let filteredAppList = this.getFilteredApps()
-    if (searchInput !== '') {
-      filteredAppList = filteredAppList.filter(each =>
-        each.appName.toLowerCase().includes(searchInput.toLowerCase()),
-      )
-    }
-
-    console.log(filteredAppList)
-    console.log(activeTabId)
-
-    return (
-      <div className="bg">
-        <div>
-          <h1 className="title">App Store</h1>
-        </div>
-        <div className="search-container">
-          <input
-            type="search"
-            className="search-bar"
-            placeholder="Search"
-            onChange={this.onChangeSearchInput}
-          />
-          <img
-            src="https://assets.ccbp.in/frontend/react-js/app-store/app-store-search-img.png"
-            alt="search icon"
-            className="icon"
-          />
-        </div>
-
-        <ul className="tab-items">
-          {tabsList.map(eachTab => (
-            <TabItem
-              eachTabDetails={eachTab}
-              key={eachTab.tabId}
-              clickTabItem={this.clickTabItem}
-              isActive={eachTab.tabId === activeTabId}
-            />
-          ))}
-        </ul>
-
-        <ul className="app-items">
-          {filteredAppList.map(eachApp => (
-            <AppItem eachAppDetails={eachApp} key={eachApp.appId} />
-          ))}
-        </ul>
-      </div>
-    )
-  }
-}
-
-export default AppStore
+// Write your code here
