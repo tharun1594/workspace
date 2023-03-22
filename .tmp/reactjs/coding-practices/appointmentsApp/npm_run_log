@@ -1,0 +1,1119 @@
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: 'ca8445cb-4a99-4bf3-922b-d2a7cabf15fb',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: 'ca8445cb-4a99-4bf3-922b-d2a7cabf15fb',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '945f7d7d-3987-41ba-a594-fadd848bc324',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '945f7d7d-3987-41ba-a594-fadd848bc324',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '1bf3ee29-28ee-457e-95f1-bc4dbe831613',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '1bf3ee29-28ee-457e-95f1-bc4dbe831613',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '77d30c37-77a5-4e75-9530-77e5ef10542d',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '77d30c37-77a5-4e75-9530-77e5ef10542d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '75942b16-3e21-4c10-bf0a-584eae721753',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '75942b16-3e21-4c10-bf0a-584eae721753',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: 'd4468078-385b-407a-8ba0-35d636e3c143',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: 'd4468078-385b-407a-8ba0-35d636e3c143',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '138af657-4afa-4473-bc16-9de3e16a375f',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '138af657-4afa-4473-bc16-9de3e16a375f',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '3c385d63-c9b2-4d7e-a9d4-760ecaae9d3a',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '3c385d63-c9b2-4d7e-a9d4-760ecaae9d3a',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '84c2c7aa-41aa-41ce-a19d-6dce812d80e1',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '84c2c7aa-41aa-41ce-a19d-6dce812d80e1',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '84c2c7aa-41aa-41ce-a19d-6dce812d80e1',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: 'c659705b-c165-46f7-be53-bc2610592a89',
+      title: 'Session',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      },
+      {
+        id: 'c659705b-c165-46f7-be53-bc2610592a89',
+        title: 'Session',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: '7674af40-ebb1-4250-b33d-cb28661cf0ec',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    []
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+      title: 'Dentist',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+  console.log
+    {
+      id: 'e9d285ac-4c09-487a-8c46-a381788ff84f',
+      title: 'Session',
+      date: '2021-07-19',
+      isFavourite: false
+    }
+
+      at Appointments.onClickAdd (src/components/Appointments/index.js:29:13)
+
+  console.log
+    [
+      {
+        id: 'd68c7246-8b86-4a7e-83b7-e355200a988d',
+        title: 'Dentist',
+        date: '2021-07-19',
+        isFavourite: true
+      },
+      {
+        id: 'e9d285ac-4c09-487a-8c46-a381788ff84f',
+        title: 'Session',
+        date: '2021-07-19',
+        isFavourite: false
+      }
+    ]
+
+      at Appointments.render (src/components/Appointments/index.js:56:13)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**
