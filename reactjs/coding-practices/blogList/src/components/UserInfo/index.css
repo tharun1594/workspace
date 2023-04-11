@@ -1,0 +1,21 @@
+.user-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.profile {
+  width: 200px;
+  height: 200px;
+}
+.name {
+  font-size: 35px;
+  font-weight: 500;
+  color: #12022f;
+}
+.role {
+  color: #616e7c;
+  font-size: 30px;
+}

@@ -1,0 +1,12 @@
+.header-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.blog-item {
+  width: 80%;
+}
+.description {
+  color: #9aa5b1;
+}
