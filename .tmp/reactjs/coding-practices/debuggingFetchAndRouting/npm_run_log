@@ -1,0 +1,242 @@
+Cleared /tmp/jest_0
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    true
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+  console.log
+    undefined
+
+      at BlogsList.getBlogsData (src/components/BlogList/index.js:20:13)
+
+  console.log
+    false
+
+      at BlogsList.render (src/components/BlogList/index.js:36:13)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

@@ -1,0 +1,142 @@
+Cleared /tmp/jest_0
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    true
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+  console.log
+    false
+
+      at CryptocurrencyTracker.render (src/components/CryptocurrencyTracker/index.js:63:13)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**

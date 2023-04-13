@@ -1,0 +1,61 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color: #000000;
+  font-family: 'Roboto';
+  color: #00e7ff;
+}
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  font-family: 'Roboto';
+  min-height: 100vh;
+  width: 100%;
+}
+.crypto-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.image {
+  width: 90%;
+  height: 300px;
+}
+.heading {
+  font-size: 50px;
+  font-weight: 600;
+}
+.card {
+  border: 2px solid #00e7ff;
+  border-radius: 10px;
+  width: 80%;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  color: #ffffff;
+  background-color: #092e33;
+  height: 70px;
+  margin-top: 0px;
+  align-items: center;
+}
+.currency-name-container {
+  display: flex;
+  width: 20%;
+  justify-content: space-between;
+  margin-right: 5%;
+}
+.nav-item {
+  margin-left: 5%;
+}

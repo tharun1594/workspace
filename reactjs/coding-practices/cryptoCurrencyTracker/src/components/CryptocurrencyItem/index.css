@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  color: #ffffff;
+  background-color: #092e33;
+  height: 70px;
+  margin-top: 0px;
+  align-items: center;
+}
+.currency-name-container {
+  display: flex;
+  width: 20%;
+  justify-content: space-between;
+  margin-right: 5%;
+}
+.nav-item {
+  margin-left: 5%;
+}
+
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 5%;
+  align-items: center;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
