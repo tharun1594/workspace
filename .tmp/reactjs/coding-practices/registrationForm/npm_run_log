@@ -1,0 +1,527 @@
+Cleared /tmp/jest_0
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     B false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Bi false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Bid false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Bidd false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Bidde false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Bidden false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Bidden false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Bidden true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    B  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bi  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bid  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidd  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidde  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden  false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     J false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Jo false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    B Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bi Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bid Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidd Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidde Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false true
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     J false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Jo false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    B Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bi Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bid Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidd Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidde Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false true
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     J false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Jo false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    B Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bi Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bid Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidd Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidde Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Bidden Joe false false true
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    R  false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Ra  false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Ram  false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Ramu  false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    V  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vi  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vij  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vija  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay  false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     R true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Ra true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Ram true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Ramu true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     V false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Vi false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Vij false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Vija false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Vijay false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+     Vijay false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      true false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+      true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    V  true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vi  true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vij  true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vija  true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay  true true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay  false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay R false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay Ra false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay Ram false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay Ramu false true false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+  console.log
+    Vijay Ramu false false false
+
+      at RegistrationForm.render (src/components/RegistrationForm/index.js:142:13)
+
+**  jest-stare --reporters: wrote output report to .results/results.html	**
