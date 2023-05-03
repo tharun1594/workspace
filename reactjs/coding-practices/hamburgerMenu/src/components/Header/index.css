@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 20vh;
+  padding: 70px;
+}
+
+.logo {
+  width: 50px;
+  cursor: pointer;
+}
+
+.menu-items {
+  display: flex;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #616e7c;
+  display: flex;
+  align-items: center;
+}
+
+.main-popup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.closeicon {
+  align-self: flex-end;
+}

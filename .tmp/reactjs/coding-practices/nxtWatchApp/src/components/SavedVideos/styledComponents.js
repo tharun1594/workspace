@@ -1,71 +1,90 @@
 import styled from 'styled-components'
 
-export const SavedContainer = styled.div`
-  background-color: ${props => props.bgColor};
-  min-height: 100vh;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  overflow-y: auto;
+export const MainBody = styled.div`
   @media screen and (min-width: 768px) {
-    margin-left: 250px;
-    margin-bottom: 0px;
+    display: flex;
+    flex-direction: row;
   }
 `
-export const SavedVideoTitle = styled.div`
-  display: flex;
-  align-items: center;
+
+export const SavedVideosMainContainer = styled.div`
+  background-color: ${props =>
+    props.theme === 'dark' ? '#0f0f0f' : '#f9f9f9'};
 `
-export const SavedTitleIconContainer = styled.div`
-  width: 40px;
-  height: 40px;
-  border-radius: 80px;
-  margin-left: 10px;
+
+export const SidebarContainer = styled.div`
+  display: none;
+  @media screen and (min-width: 768px) {
+    display: block;
+  }
+`
+
+export const SavedVideosContainer = styled.div`
+  height: 90vh;
+  overflow-x: auto;
+
+  flex-grow: 1;
+  padding: 15px;
+`
+
+export const SavedMenuContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 7px;
+  @media screen and (min-width: 768px) {
+    padding-left: 20px;
+  }
+  background-color: ${props =>
+    props.theme === 'dark' ? '#424242' : '#f8fafc'};
+`
+export const IconContainer = styled.div`
+  padding: 10px;
+  border-radius: 40px;
   margin-right: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  @media screen and (min-width: 768px) {
-    margin-left: 40px;
-  }
+  margin-left: 10px;
+  background-color: ${props =>
+    props.theme === 'dark' ? '#0f0f0f' : '#e2e8f0'};
 `
-export const SavedText = styled.h1`
-  font-family: Roboto;
-  font-size: 25px;
-  color: ${props => props.color};
-  @media screen and (min-width: 768px) {
-    font-size: 35px;
+export const MenuHeading = styled.h1`
+  color: ${props => (props.theme === 'dark' ? '#f9f9f9' : '#0f0f0f')};
 `
-export const SavedVideoList = styled.ul`
-  list-style-type: none;
-  display: flex;
-  flex-direction: column;
-  margin: 0px;
+export const VideosList = styled.ul`
+  list-style: none;
   padding: 0px;
-`
-export const NoSavedVideosView = styled.div`
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background: none;
+  flex-wrap: wrap;
 `
 
-export const NoSavedVideosImage = styled.img`
-  width: 200px;
+export const NoVideosContainer = styled.div`
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin: 10px;
+`
+
+export const NoVideosImg = styled.img`
+  width: 80%;
+  padding-top: 15px;
+
   @media screen and (min-width: 768px) {
-    width: 450px;
+    width: 50%;
   }
 `
-export const NoSavedVideosHeading = styled.h1`
-  font-family: Roboto;
-  font-size: 25px;
-  color: ${props => props.headingColor};
-  text-align: center;
-`
 
-export const NoSavedVideosNote = styled.p`
-  font-family: Roboto;
-  font-size: 18px;
-  color: ${props => props.noteColor};
-  text-align: center;
+export const FailureText = styled.h1`
+  margin: 0px;
+  padding: 5px;
+  color: ${props => (props.theme === 'dark' ? '#f9f9f9' : '#181818')};
+`
+export const RetryButton = styled.button`
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  width: 100px;
+  height: 30px;
+  margin-top: 10px;
+  border-radius: 5px;
 `

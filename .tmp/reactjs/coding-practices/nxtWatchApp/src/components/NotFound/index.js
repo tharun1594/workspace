@@ -1,47 +1,44 @@
 import Header from '../Header'
-import NavigationBar from '../NavigationBar'
-import ThemeAndVideoContext from '../../context/ThemeAndVideoContext'
+import Sidebar from '../Sidebar'
+import ThemeContext from '../../Context/ThemeContext'
+
 import {
+  MainBody,
+  SidebarContainer,
+  NotFoundImage,
   NotFoundContainer,
-  NotFoundVideosView,
-  NotFoundVideosImage,
-  NotFoundVideosHeading,
-  NotFoundVideosNote,
+  NotFoundText,
 } from './styledComponents'
 
 const NotFound = () => (
-  <ThemeAndVideoContext.Consumer>
+  <ThemeContext.Consumer>
     {value => {
       const {isDarkTheme} = value
-      // console.log(savedVideos)
+      const theme = isDarkTheme ? 'dark' : 'light'
 
-      const bgColor = isDarkTheme ? '#181818' : '#f9f9f9'
-      const headingColor = isDarkTheme ? '#f1f5f9' : '#1e293b'
-      const noteColor = isDarkTheme ? '#e2e8f0' : '#475569'
-
-      const notFindImageUrl = isDarkTheme
-        ? 'https://assets.ccbp.in/frontend/react-js/nxt-watch-not-found-light-theme-img.png'
-        : 'https://assets.ccbp.in/frontend/react-js/nxt-watch-not-found-dark-theme-img.png'
+      const imgUrl = isDarkTheme
+        ? 'https://assets.ccbp.in/frontend/react-js/nxt-watch-not-found-dark-theme-img.png'
+        : 'https://assets.ccbp.in/frontend/react-js/nxt-watch-not-found-light-theme-img.png'
 
       return (
-        <>
+        <div>
           <Header />
-          <NavigationBar />
-          <NotFoundContainer bgColor={bgColor}>
-            <NotFoundVideosView>
-              <NotFoundVideosImage src={notFindImageUrl} alt="not found" />
-              <NotFoundVideosHeading headingColor={headingColor}>
-                Page Not Found
-              </NotFoundVideosHeading>
-              <NotFoundVideosNote noteColor={noteColor}>
-                We are sorry, the page you requested could not be found.
-              </NotFoundVideosNote>
-            </NotFoundVideosView>
-          </NotFoundContainer>
-        </>
+          <MainBody>
+            <SidebarContainer>
+              <Sidebar />
+            </SidebarContainer>
+            <NotFoundContainer theme={theme}>
+              <NotFoundImage src={imgUrl} alt="not found" />
+              <NotFoundText theme={theme}>Page Not Found</NotFoundText>
+              <NotFoundText as="p" theme={theme}>
+                we are sorry, the page you requested could not be found.
+              </NotFoundText>
+            </NotFoundContainer>
+          </MainBody>
+        </div>
       )
     }}
-  </ThemeAndVideoContext.Consumer>
+  </ThemeContext.Consumer>
 )
 
 export default NotFound

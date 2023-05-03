@@ -1,44 +1,41 @@
 import styled from 'styled-components'
 
+export const MainBody = styled.div`
+  @media screen and (min-width: 768px) {
+    display: flex;
+    flex-direction: row;
+    height: 90vh;
+  }
+`
+
+export const SidebarContainer = styled.div`
+  display: none;
+  @media screen and (min-width: 768px) {
+    display: block;
+  }
+`
+
 export const NotFoundContainer = styled.div`
   display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: ${props => props.bgColor};
-  min-height: 92vh;
-  margin-top: 60px;
-  margin-bottom: 60px;
-  overflow-y: auto;
-  @media screen and (min-width: 768px) {
-    margin-left: 250px;
-    margin-bottom: 0px;
-  }
-`
-
-export const NotFoundVideosView = styled.div`
-  display: flex;
   flex-direction: column;
-  justify-content: center;
+  text-align: center;
   align-items: center;
-  background: none;
+  padding: 10px;
+  width: 100%;
+  background-color: ${props =>
+    props.theme === 'dark' ? '#181818' : '#f9f9f9'};
 `
 
-export const NotFoundVideosImage = styled.img`
-  width: 200px;
+export const NotFoundImage = styled.img`
+  width: 80%;
+  padding-top: 15px;
+
   @media screen and (min-width: 768px) {
-    width: 450px;
+    width: 50%;
   }
 `
-export const NotFoundVideosHeading = styled.h1`
-  font-family: Roboto;
-  font-size: 25px;
-  color: ${props => props.headingColor};
-  text-align: center;
-`
-
-export const NotFoundVideosNote = styled.p`
-  font-family: Roboto;
-  font-size: 18px;
-  color: ${props => props.noteColor};
-  text-align: center;
+export const NotFoundText = styled.h1`
+  margin: 0px;
+  padding: 5px;
+  color: ${props => (props.theme === 'dark' ? '#f9f9f9' : '#181818')};
 `
