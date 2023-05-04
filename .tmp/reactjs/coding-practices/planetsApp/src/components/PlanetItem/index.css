@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.image {
+  width: 400px;
+}
+
+.comp-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: #ffffff;
+}

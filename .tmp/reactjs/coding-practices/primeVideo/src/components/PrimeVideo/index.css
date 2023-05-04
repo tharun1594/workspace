@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.upper-bg {
+  min-height: 100vh;
+  background-color: #000000;
+}
+
+.prime-img {
+  height: 50vh;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.lower-bg {
+  width: 100%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 135px;
+}
+
+.title {
+  color: #ffffff;
+}
